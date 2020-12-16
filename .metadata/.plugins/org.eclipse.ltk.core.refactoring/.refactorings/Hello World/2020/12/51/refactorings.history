@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;user.userDAO&apos; to &apos;UserDAO&apos;&#x0D;&#x0A;- Original project: &apos;Hello World&apos;&#x0D;&#x0A;- Original element: &apos;user.userDAO&apos;&#x0D;&#x0A;- Renamed element: &apos;user.UserDAO&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;userDAO&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;user{userDAO.java[userDAO" matchStrategy="1" name="UserDAO" qualified="false" references="true" similarDeclarations="false" stamp="1608116132072" textual="false" version="1.0"/>
+</session>
