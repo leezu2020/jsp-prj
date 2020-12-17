@@ -28,3 +28,11 @@
 0:0:0:0:0:0:0:1 - - [16/Dec/2020:20:54:56 +0900] "GET /Hello_World/ HTTP/1.1" 200 380
 0:0:0:0:0:0:0:1 - - [16/Dec/2020:20:54:58 +0900] "POST /Hello_World/userJoinAction.jsp HTTP/1.1" 200 98
 0:0:0:0:0:0:0:1 - - [16/Dec/2020:20:54:59 +0900] "GET /Hello_World/index.jsp HTTP/1.1" 200 380
+0:0:0:0:0:0:0:1 - - [16/Dec/2020:21:07:51 +0900] "GET /Hello_World/ HTTP/1.1" 200 380
+0:0:0:0:0:0:0:1 - - [16/Dec/2020:21:07:54 +0900] "POST /Hello_World/userJoinAction.jsp HTTP/1.1" 500 2711
+0:0:0:0:0:0:0:1 - - [16/Dec/2020:21:08:28 +0900] "GET /Hello_World/index.jsp HTTP/1.1" 200 380
+0:0:0:0:0:0:0:1 - - [16/Dec/2020:21:08:30 +0900] "POST /Hello_World/userJoinAction.jsp HTTP/1.1" 200 90
+0:0:0:0:0:0:0:1 - - [16/Dec/2020:21:08:32 +0900] "POST /Hello_World/userJoinAction.jsp HTTP/1.1" 200 90
+0:0:0:0:0:0:0:1 - - [16/Dec/2020:21:08:34 +0900] "POST /Hello_World/userJoinAction.jsp HTTP/1.1" 200 90
+0:0:0:0:0:0:0:1 - - [16/Dec/2020:21:08:47 +0900] "POST /Hello_World/userJoinAction.jsp HTTP/1.1" 200 98
+0:0:0:0:0:0:0:1 - - [16/Dec/2020:21:08:48 +0900] "GET /Hello_World/index.jsp HTTP/1.1" 200 380
