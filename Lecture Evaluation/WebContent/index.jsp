@@ -228,7 +228,7 @@
 								</select>
 							</div>
 							<div class="from-group col-sm-4">
-								<label>강의 구분</label> <select name="semesterDivide"
+								<label>강의 구분</label> <select name="lectureDivide"
 									class="form-control">
 									<option value="전공">전공</option>
 									<option value="교양">교양</option>
